@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello there this is Manas here.👋
+** `Digital Craftsman(with a touch of a few hobbies in it)`**
 
 <!--
 **Manas-Jadhav/Manas-Jadhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
